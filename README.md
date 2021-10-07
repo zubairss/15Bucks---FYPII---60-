@@ -1,6 +1,6 @@
-# fifteenbucks
+# 15Bucks
 
-A new Flutter project.
+Flutter App for 15Bucks - 60% Implementation
 
 ## Getting Started
 
