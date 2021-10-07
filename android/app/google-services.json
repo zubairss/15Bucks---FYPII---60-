@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356481106990",
+    "project_id": "bucks-3d812",
+    "storage_bucket": "bucks-3d812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356481106990:android:5c8c99517d27a3187fcbbf",
+        "android_client_info": {
+          "package_name": "com.example.fifteenbucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356481106990-i7vgmm8r69lgmpp2ra8j3egu9cfpgrpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5gmuI0pF_nhEtpoYTtxGodvQOVOG0Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356481106990-i7vgmm8r69lgmpp2ra8j3egu9cfpgrpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
